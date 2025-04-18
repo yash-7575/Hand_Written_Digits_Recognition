@@ -44,14 +44,6 @@ Install dependencies:
 ```bash
 pip install tensorflow numpy matplotlib
 ```
-
----
-
-## 🧪 Run the Project
-```bash
-python digit_classifier.py
-```
-
 ---
 
 ## 📷 Sample Output
