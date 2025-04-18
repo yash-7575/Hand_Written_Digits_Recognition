@@ -44,20 +44,13 @@ Install dependencies:
 ```bash
 pip install tensorflow numpy matplotlib
 ```
-
----
-
-## 🧪 Run the Project
-```bash
-python digit_classifier.py
-```
-
 ---
 
 ## 📷 Sample Output
-- Displays predicted probabilities
-- Compares predicted and actual digit
-- Shows the digit image using matplotlib
+![Preview](image.png)
+![Preview](image2.png)
+![Preview](image3.png)
+
 
 ---
 
